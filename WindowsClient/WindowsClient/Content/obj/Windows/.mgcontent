@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Animated Models/wagging_tail.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/ball.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/bowlingball.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/cone.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/cube.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/cylinder.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/guide.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/lane.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/laneend.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/pin.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/pit.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/robot.FBX</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/spinner.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/spinnerCylinder.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/turbine.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/w9bounds.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/thumbnail/board.jpg</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/thumbnail/T_Lane.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/thumbnail/T_Poster.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/thumbnail/T_Wall.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/base.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/blades.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/board.jpg</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/cubecover.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/hud.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/menu.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/pit.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/robot.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/scale.jpg</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/T_Ball.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/T_Lane.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/T_LaneEnd.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/T_Pin.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/T_Poster.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/T_Wall.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Fonts/bigFont.spritefont</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Fonts/board.jpg</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Fonts/sfont.spritefont</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/room.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/DARTMENU.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/dart.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/Board.fbx</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Music/TavernMusic.mp3</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/SoundEffects/DartThud.mp3</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/FailScreen.png</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/SoundEffects/Fail.mp3</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/t2.jpg</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Models/wood.jpg</File>
+    <File>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Textures/Win.png</File>
+  </SourceFiles>
+</SourceFileCollection>

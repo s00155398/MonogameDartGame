@@ -1,0 +1,133 @@
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\Common.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\CppNet.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpFont.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\AssimpNet.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\FreeImageNET.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\ATI.TextureConverter.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\PVRTexLibNET.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\bin\Debug\Common.pdb
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\obj\Debug\PipelineExtensions.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\obj\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\WinGame\PipelineExtensions\obj\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\Common.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\CppNet.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpFont.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\AssimpNet.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\FreeImageNET.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\ATI.TextureConverter.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\PVRTexLibNET.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\bin\Debug\Common.pdb
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\obj\Debug\PipelineExtensions.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\obj\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Documents\GitHub\3DGameEngine\Engine\PipelineExtensions\obj\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\Engine.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\BEPUutilities.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\BEPUphysics.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\CppNet.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpFont.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\AssimpNet.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\ManagedPVRTC.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\FreeImageNET.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\bin\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\PipelineExtensions.pdb
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\Engine.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\BEPUutilities.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\BEPUphysics.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\CppNet.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpFont.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\AssimpNet.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\ManagedPVRTC.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\FreeImageNET.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\bin\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.dll
+C:\Users\ngannon\Desktop\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.pdb
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\PipelineExtensions.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\PipelineExtensions.pdb
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\Engine.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\MonoGame.Framework.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\BEPUutilities.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\BEPUphysics.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.XInput.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\CppNet.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\Nvidia.TextureTools.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpFont.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\AssimpNet.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\ManagedPVRTC.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\FreeImageNET.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\bin\Debug\Engine.pdb
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.dll
+C:\Users\Admin\Desktop\WindowsClient\PipelineExtensions\obj\Debug\PipelineExtensions.pdb

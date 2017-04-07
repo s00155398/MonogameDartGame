@@ -1,0 +1,332 @@
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe.config
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cube.xnb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\robot.xnb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover.xnb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover_0.xnb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot.xnb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot_0.xnb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.pdb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.pdb
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+H:\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.exe
+H:\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe.config
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.exe
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\robot.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover_0.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot_0.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUik.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUphysics.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUutilities.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\pit.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit_0.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\ball.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cone.xnb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cylinder.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe.config
+F:\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.exe
+F:\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.pdb
+F:\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\ball.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cone.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cube.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cylinder.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\pit.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\robot.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover_0.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit_0.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot_0.xnb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.pdb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUik.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUphysics.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUutilities.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.pdb
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Fonts\sfont.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Fonts\bigFont.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Fonts\sfont.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\ball.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\bowlingball.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cone.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cylinder.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\guide.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\lane.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\laneend.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\pin.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\pit.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\robot.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\room.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\spinner.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\spinnerCylinder.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\turbine.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\w9bounds.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\base.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\base_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\blades.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\blades_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\board.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\board_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\hud.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\menu.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\scale.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Ball.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Ball_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Lane.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_LaneEnd.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_LaneEnd_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Lane_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Lane_1.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Pin.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Pin_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Poster.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Poster_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Wall.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Wall_0.xnb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe.config
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.pdb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUik.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUphysics.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUutilities.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.exe
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.pdb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe.config
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.exe
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.pdb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\board_0.xnb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_LaneEnd_0.xnb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Wall_0.xnb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.pdb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUik.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUphysics.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUutilities.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\ngannon\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Animated Models\wagging_tail.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Fonts\bigFont.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Fonts\board.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Fonts\sfont.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\ball.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\Board.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\bowlingball.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cone.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\cylinder.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\dart.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\dart3.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\dartsroom.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\guide.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\lane.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\laneend.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\Monodart_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\pin.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\pit.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\robot.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\room.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\spinner.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\spinnerCylinder.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\t2.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\t2_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\turbine.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\w9bounds.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Models\wood.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Music\TavernMusic.wma
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Music\TavernMusic.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\SoundEffects\DartThud.wma
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\SoundEffects\DartThud.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\SoundEffects\Fail.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\base.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\base_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\blades.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\blades_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\board.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\board_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\cubecover_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\DARTMENU.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\FailScreen.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\hud.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\menu.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\pit_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\robot_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\scale.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\scale_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\thumbnail\board.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\thumbnail\T_Lane.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\thumbnail\T_Poster.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\thumbnail\T_Wall.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Ball.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Ball_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Lane.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_LaneEnd.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_LaneEnd_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Lane_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Lane_1.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Pin.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Pin_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Poster.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Poster_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Wall.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\T_Wall_0.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Content\Textures\Win.xnb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe.config
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.exe
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\WindowsClient.pdb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUik.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUphysics.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\BEPUutilities.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\Engine.pdb
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.exe
+C:\Users\Admin\Desktop\WindowsClient\WindowsClient\obj\x86\Debug\WindowsClient.pdb

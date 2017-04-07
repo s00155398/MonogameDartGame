@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/Fonts/bigFont.spritefont</SourceFile>
+  <SourceTime>2016-11-30T12:12:00+00:00</SourceTime>
+  <DestFile>C:/Users/Admin/Desktop/WindowsClient/WindowsClient/Content/bin/Windows/Fonts/bigFont.xnb</DestFile>
+  <DestTime>2017-01-10T14:51:06.0611339+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

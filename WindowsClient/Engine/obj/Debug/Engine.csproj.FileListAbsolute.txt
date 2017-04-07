@@ -1,0 +1,173 @@
+H:\WindowsClient\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+H:\WindowsClient\Engine\bin\Debug\Engine.dll
+H:\WindowsClient\Engine\bin\Debug\Engine.pdb
+H:\WindowsClient\Engine\bin\Debug\MonoGame.Framework.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.XInput.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.dll
+H:\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.dll
+H:\WindowsClient\Engine\bin\Debug\MonoGame.Framework.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.XInput.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.xml
+H:\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.xml
+H:\WindowsClient\Engine\obj\Debug\Engine.dll
+H:\WindowsClient\Engine\obj\Debug\Engine.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\Engine.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\Engine.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\System.Net.Http.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\MonoGame.Framework.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\System.Net.Http.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XInput.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.pdb
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUik.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUphysics.dll
+C:\Users\ngannon\Downloads\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUutilities.dll
+F:\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+F:\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.dll
+F:\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.pdb
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\Engine.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\Engine.pdb
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUik.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUphysics.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUutilities.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\MonoGame.Framework.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XInput.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.dll
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\MonoGame.Framework.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XInput.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.xml
+F:\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\Engine.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUik.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUphysics.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\BEPUutilities.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\System.Net.Http.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\MonoGame.Framework.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\System.Net.Http.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.XInput.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.dll
+C:\Users\ngannon\Desktop\Complete Engine October\WindowsClient\Engine\obj\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\Engine.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\Engine.pdb
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\BEPUik.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\BEPUphysics.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\BEPUutilities.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\MonoGame.Framework.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\System.Net.Http.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XInput.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\MonoGame.Framework.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\System.Net.Http.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XInput.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\ngannon\Desktop\WindowsClient\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\ngannon\Desktop\WindowsClient\Engine\obj\Debug\Engine.dll
+C:\Users\ngannon\Desktop\WindowsClient\Engine\obj\Debug\Engine.pdb
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\Engine.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\Engine.pdb
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\BEPUik.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\BEPUphysics.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\BEPUutilities.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\MonoGame.Framework.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XInput.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\MonoGame.Framework.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\System.Net.Http.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.XInput.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.RawInput.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Admin\Desktop\WindowsClient\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsClient\Engine\obj\Debug\Engine.dll
+C:\Users\Admin\Desktop\WindowsClient\Engine\obj\Debug\Engine.pdb

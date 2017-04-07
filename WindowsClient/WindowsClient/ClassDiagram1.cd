@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bowling.BowlingBall">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BowlingGame\BowlingBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.BowlingBallController">
+    <Position X="8.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABQAQAQAAAAAAAGgAAAAAEAAAAAAAAQA=</HashCode>
+      <FileName>BowlingGame\BowlingBallController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.BowlingMenuScene">
+    <Position X="5.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAQAAAQAAAAgAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BowlingGame\BowlingMenuScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.BowlingPlayer">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Bowling.BowlingPlayer.PlayerSave" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BowlingGame\BowlingPlayer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQgAAAAAAAQAAAAAAAAAAAAAACIAAAA=</HashCode>
+      <FileName>BowlingGame\BowlingPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.BowlingScene">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAQAAAwAAAQCAAAAAACAAAAARAAAAAAEAAAA=</HashCode>
+      <FileName>BowlingGame\BowlingScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.LaneEnd">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BowlingGame\LaneEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.Pin">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BowlingGame\Pin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bowling.PinController">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAABAQAAAAQAAIAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>BowlingGame\PinController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

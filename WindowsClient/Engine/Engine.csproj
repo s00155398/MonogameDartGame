@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{40CD7C99-39A0-4CD0-ADA8-B3D6FD33FAD7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Engine</RootNamespace>
+    <AssemblyName>Engine</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BEPUik">
+      <HintPath>..\BEPUphysics v1.4.0\BEPUik.dll</HintPath>
+    </Reference>
+    <Reference Include="BEPUphysics">
+      <HintPath>..\BEPUphysics v1.4.0\BEPUphysics.dll</HintPath>
+    </Reference>
+    <Reference Include="BEPUutilities">
+      <HintPath>..\BEPUphysics v1.4.0\BEPUutilities.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework, Version=3.5.1.1679, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animation\AnimationClip.cs" />
+    <Compile Include="Animation\AnimationPlayer.cs" />
+    <Compile Include="Animation\Keyframe.cs" />
+    <Compile Include="Animation\SkinningData.cs" />
+    <Compile Include="Base\CameraComponent.cs" />
+    <Compile Include="Base\Component.cs" />
+    <Compile Include="Base\ComponentManager.cs" />
+    <Compile Include="Base\GameObject.cs" />
+    <Compile Include="Base\PhysicsComponent.cs" />
+    <Compile Include="Base\RenderComponent.cs" />
+    <Compile Include="Base\Scene.cs" />
+    <Compile Include="Base\ScriptComponent.cs" />
+    <Compile Include="Components\AI\WaypointComponent.cs" />
+    <Compile Include="Components\Cameras\ThirdPersonCamera.cs" />
+    <Compile Include="Components\Cameras\FixedCamera.cs" />
+    <Compile Include="Components\Graphics\BasicEffectModel.cs" />
+    <Compile Include="Components\Graphics\BillboardSprite.cs" />
+    <Compile Include="Components\Graphics\ManuallyAnimatedModel.cs" />
+    <Compile Include="Components\Graphics\SkinnedEffectModel.cs" />
+    <Compile Include="Components\Input\PlayerBallController.cs" />
+    <Compile Include="Components\Input\PlayerMovementController.cs" />
+    <Compile Include="Components\Input\RayCaster.cs" />
+    <Compile Include="Components\Input\SelectionHandler.cs" />
+    <Compile Include="Components\Physics\ConeBody.cs" />
+    <Compile Include="Components\Physics\CylinderBody.cs" />
+    <Compile Include="Components\Physics\SphereBody.cs" />
+    <Compile Include="Components\Physics\BoxBody.cs" />
+    <Compile Include="Components\Physics\StaticMeshBody.cs" />
+    <Compile Include="Engines\AudioEngine.cs" />
+    <Compile Include="Engines\DebugEngine.cs" />
+    <Compile Include="Engines\InputEngine.cs" />
+    <Compile Include="Engines\PhysicsEngine.cs" />
+    <Compile Include="GameEngine.cs" />
+    <Compile Include="Engines\CameraEngine.cs" />
+    <Compile Include="Engines\FrameRateCounter.cs" />
+    <Compile Include="GameUtilities.cs" />
+    <Compile Include="MathConverter.cs" />
+    <Compile Include="ModelDataExtractor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
